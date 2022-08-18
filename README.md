@@ -11,4 +11,4 @@
 好像是依赖python3.9，我mac上就装了这个版本。如果报错的话可能需要brew安装下。
 
 ## 下载
-./微博热搜.alfredworkflow
+[微博热搜.alfredworkflow](./微博热搜.alfredworkflow)
